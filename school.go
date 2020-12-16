@@ -4,8 +4,8 @@ import "fmt"
 
 var leftHand = 0
 var rightHand = 0
-var left = "l"
-var right = "r"
+var left = "L"
+var right = "R"
 var quit = "XXX"
 var choice string
 
